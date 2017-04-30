@@ -8,7 +8,7 @@ An important step toward Keeping America Beautiful is to identify problems and e
 ## Product
 We extracted a sample of 40 littered Google Street View San Diego images for training and sample of a random sample of ~50,000 Google Street View images across San Diego, California for testing, processed the data, trained shape recognition and color recognition models, classified our images based on each model as littered/not littered, and designed an interactive website http://wastebotsunleashed.github.io for visualizing which zip codes in San Diego are least and most littered. The goal is to engage public and government officials in keeping San Diego beautiful. This is a prototype and shows the potential of using data science for public benefit.
 </br>
-<a href="http://wastebotsunleased.github.io/">
+<a href="http://wastebotsunleashed.github.io/">
 <img src="https://github.com/wastebotsunleashed/wastebotsunleashed.github.io/blob/master/Images/dashboard_title.PNG" alt="Go to Waste Bots Unleashed Website">
 </a>
 
