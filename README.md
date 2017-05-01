@@ -12,11 +12,9 @@ We extracted a sample of 40 littered Google Street View San Diego images for tra
 <img src="https://github.com/wastebotsunleashed/wastebotsunleashed.github.io/blob/master/Images/dashboard_title.PNG" alt="Go to Waste Bots Unleashed Website">
 </a>
 
-## Award
-Grand Prize Winners at 2017 Women's Hackathon
-</br>
-<img src="https://github.com/wastebotsunleashed/wastebotsunleashed.github.io/blob/master/Images/Award.jpg"
-</a>
+## Awards
+![Grand Prize Winners](https://github.com/wastebotsunleashed/wastebotsunleashed.github.io/blob/master/Images/Award.jpg)
+Grand Prize Winners at 2017 Women's Hackathon </br>
 
 ## Contributors
 FirstName | LastName | Email
