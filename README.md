@@ -14,7 +14,7 @@ We extracted a sample of 40 littered Google Street View San Diego images for tra
 
 ## Awards
 ![Grand Prize Winners](https://github.com/wastebotsunleashed/wastebotsunleashed.github.io/blob/master/Images/Award.PNG)
-Grand Prize Winners at 2017 Women's Hackathon </br>
+Grand Prize Winners at 2017 Women's Hackathon (Lauren Coden and Jillian Jarrett, Orysya Stus not pictured) </br>
 
 ## Contributors
 FirstName | LastName | Email
