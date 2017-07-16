@@ -27,7 +27,7 @@ Submit  |  Pull Request | <youremailhere@gmail.com>
 ## Useful Links
 What is it? | Why is it Useful? | Link to Item
 --- | --- | ---
-Official Site | Website |  [Official Hackathon Site](http://sandiegohackathon.org/us/san-diego-womens-hackathon--csusm "Official Site")
+Official Site | Website |  [Official Hackathon Site](http://angelhack.com/angelhack-global-hackathon-series-seattle "Official Site")
 
 ## Copyright & License
 
